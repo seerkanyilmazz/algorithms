@@ -2,7 +2,7 @@ package findWordCount;
 
 import java.util.Scanner;
 
-class findWordCount {
+public class FindWordCount {
     public static void main(String[] args){
         int count = 0;
         System.out.println("Enter your paragraph: ");
